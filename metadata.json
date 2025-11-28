@@ -1,0 +1,9 @@
+{
+  "name": "FCI Suez Smart Attendance",
+  "description": "A geolocation and QR-based attendance system for Suez University with LMS features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
